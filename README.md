@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis Project
 
 ## 📌 Overview
-This project analyzes tweets and classifies them into Positive, Negative, or Neutral sentiment using Machine Learning.
+This is project analyzes tweets and classifies them into Positive, Negative, or Neutral sentiment using Machine Learning.
 
 ## 🧠 Tech Stack
 - Python
